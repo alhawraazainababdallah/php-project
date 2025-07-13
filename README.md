@@ -1,4 +1,4 @@
-# PHP Project - [Project Name]
+# PHP Project - EverCart
 
 A dynamic web application built with PHP and MySQL.
 
